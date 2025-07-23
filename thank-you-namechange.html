@@ -1,9 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Thank You for Your Purchase</title>
-</head>
+<script>
+  // Automatically trigger download of the ZIP file on page load
+  window.onload = function() {
+    const link = document.createElement('a');
+    link.href = 'https://uktemplates.github.io/NameChangePack.zip';
+    link.download = 'NameChangePack.zip';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+</script>
+
 <body>
   <h1>✅ Thank You!</h1>
   <p>Your Name Change Pack is now downloading...</p>
