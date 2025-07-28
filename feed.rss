@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>TemplatesUK Blog</title>
+    <link>https://templatesuk.com/blog</link>
+    <description>Smart UK templates for legal, name change, tenancy, and more.</description>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 28 Jul 2025 12:00:00 +0100</lastBuildDate>
+
+    <item>
+      <title>Change Your Name with a Deed Poll</title>
+      <link>https://templatesuk.com/blog/change-name-deed-poll</link>
+      <description>Learn how to legally change your name in the UK using a Deed Poll — fast, official, and accepted everywhere.</description>
+      <pubDate>Mon, 28 Jul 2025 12:00:00 +0100</pubDate>
+      <guid>https://templatesuk.com/blog/change-name-deed-poll</guid>
+    </item>
+
+  </channel>
+</rss>
